@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="image">
+    <file>image/shujuyuan.png</file>
+    <file>image/baocun.png</file>
+    <file>image/remove.png</file>
+    <file>image/biaoge.png</file>
+    <file>image/excel-full.png</file>
+    <file>image/wenjiantianjia.png</file>
+    <file>image/dazhongmeituan.png</file>
+    <file>image/douyin.png</file>
+    <file>image/yihexiao.png</file>
+    <file>image/youzan.png</file>
+    <file>image/zhongzhi.png</file>
+    <file>image/ico_yunhang_xuanzhong.png</file>
+  </qresource>
+</RCC>
